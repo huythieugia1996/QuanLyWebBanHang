@@ -1,0 +1,155 @@
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.btn-add {
+    width: 120px;
+    height: 44px;
+    margin-left: 15px;
+}
+
+.Text-tile {
+    margin-bottom: 0px;
+    // font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #252733;
+}
+
+.col-title {
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+
+.Text-tile-2 {
+    // font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.4px;
+    color: #252733;
+    margin-bottom: 50px;
+}
+
+.Title-table {
+    color: gray;
+    vertical-align: middle;
+}
+
+.btn-size {
+    width: 80px;
+    height: 35px;
+    margin: 5px 5px 5px 5px;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+    // text-align: center;
+}
+
+.table {
+    background: white;
+}
+
+.margin-left,
+.margin-right {
+    margin-left: -30px;
+}
+
+.status-color-in {
+    color: green;
+}
+
+.status-color-out {
+    color: red;
+}
+
+.td-action {
+    text-align: center;
+    vertical-align: middle;
+}
+
+i {
+    vertical-align: middle;
+}
+
+.input-code-product {
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 100%;
+    background: #ebedef;
+}
+
+#input-full-size {
+    // border-bottom: 1px solid gray;
+    border: none;
+    background: #ebedef;
+    color: gray;
+    float: right;
+    width: 90%;
+    margin-bottom: 0px;
+    margin-top: -30px;
+    box-shadow: none;
+}
+
+#date {
+    border-bottom: 1px solid gray;
+    border: none;
+    background: #ebedef;
+    color: gray;
+    float: right;
+    width: 90%;
+    margin-bottom: 0px;
+    margin-top: -30px;
+    box-shadow: none;
+}
+
+#background-color {
+    background: #ebedef;
+    border: none;
+}
+
+.row-width {
+    width: 100%;
+}
+
+.card-color {
+    background: #ebedef;
+    border: none;
+}
+
+.card {
+    background: #ebedef;
+}
+
+input:focus {
+    outline: none;
+}
+
+.border-col {
+    border-bottom: 1px solid gray;
+    margin: 5px 5px 5px 5px;
+    margin-bottom: 2rem;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}
+
+.image-upload {
+    display: none;
+}
+
+.image-size {
+    width: auto;
+    height: auto;
+}
